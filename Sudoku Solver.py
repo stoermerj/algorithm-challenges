@@ -248,7 +248,7 @@ def executer(sudokuBoard):
             break
     return listArray
     
-finalBoard = executer(intermediateBoard)
+finalBoard = executer(board)
 print(finalBoard)
 
 
